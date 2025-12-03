@@ -131,26 +131,7 @@ Each lab document includes:
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-```bash
-# Required tools
-- Python 3.x
-- Scapy library
-- Wireshark
-- Virtual environment (VirtualBox/VMware/Docker)
-```
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/network-security-labs.git
-cd network-security-labs
-
-# Install Python dependencies (if applicable)
-pip install scapy
-```
 
 ### Running the Labs
 1. Read the respective lab document thoroughly
@@ -187,30 +168,11 @@ Upon completing these labs, you will understand:
 - Network traffic analysis techniques
 - Ethical hacking methodologies
 
----
 
-## 🔐 Security Implications
-
-### Real-World Impact
-These attacks demonstrate vulnerabilities that have affected:
-- Major DNS providers
-- Corporate networks
-- Government systems
-- Internet infrastructure
-
-### Modern Protections
-Current mitigations include:
-- DNSSEC (DNS Security Extensions)
-- Source port randomization
-- Transaction ID randomization
-- Fragment reassembly validation
-- Rate limiting and anomaly detection
-
----
 
 ## 📝 Documentation
 
-All labs are documented in Hebrew (עברית) with:
+All labs are documented  with:
 - Detailed theoretical background
 - Step-by-step procedures
 - Screenshots and network diagrams
@@ -219,26 +181,14 @@ All labs are documented in Hebrew (עברית) with:
 
 ---
 
-## 🤝 Contributing
 
-This is an educational project. Contributions, suggestions, and improvements are welcome!
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
 
 ## 📧 Contact
 
 **Guy Katz**
-- ID: 322977265
 - Institution: Holon Institute of Technology
 
 **Abraham Dvoreh**
-- ID: 315025718
 - Institution: Holon Institute of Technology
 
 ---
@@ -253,7 +203,6 @@ This project is created for educational purposes as part of the Network Security
 
 - HIT Network Security Course Instructors
 - SEED Labs Project (for inspiration)
-- The network security research community
 
 ---
 
