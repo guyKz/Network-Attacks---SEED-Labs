@@ -5,11 +5,11 @@
 
 [![Course](https://img.shields.io/badge/Course-Network%20Security-blue)]()
 [![Institution](https://img.shields.io/badge/Institution-HIT-orange)]()
-[![Language](https://img.shields.io/badge/Language-Hebrew-green)]()
+
 
 ## 📚 Overview
 
-This repository contains three comprehensive lab assignments exploring fundamental network security concepts and attack vectors. Each lab includes detailed documentation in Hebrew, practical demonstrations, and analysis of various network-based attacks.
+This repository contains three comprehensive lab assignments exploring fundamental network security concepts and attack vectors. Each lab includes detailed documentation, practical demonstrations, and analysis of various network-based attacks.
 
 **Authors:** Guy Katz & Abraham Dvoreh  
 **Course:** Network Security  
